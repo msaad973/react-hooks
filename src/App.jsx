@@ -4,7 +4,7 @@ function App() {
     return (
         <div>
             <h1>My App</h1>
-            <p class="text-3xl font-bold underline">Saad </p>
+            <p className="text-3xl font-bold underline">Saad </p>
         </div>
     )
 }
